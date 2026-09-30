@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Dante Lou
 
-<!--
-**dantevlou/dantevlou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student at the University of Canberra interested in IT systems, networking, and cybersecurity.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently building practical skills in:
+
+- Windows and Linux environments
+- Python programming
+- Git and GitHub workflows
+- Networking fundamentals
+- Cybersecurity concepts
+
+I enjoy troubleshooting problems, understanding how systems work, and documenting what I learn.
+
+## Current Learning
+
+- Software Engineering
+- Networking
+- Cybersecurity fundamentals
+- Linux/WSL environments
+- Python
